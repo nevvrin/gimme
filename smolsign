@@ -4,4 +4,4 @@ FOR MORE INFO SEE 'READ ME': 'https://raw.githubusercontent.com/nevvrin/gimme/ma
 /*CODE*/
 
 <link href="//dl.dropbox.com/s/fscw8p4e35iu0u4/love.css" rel="stylesheet">
-<center><div id="ngtmr" style="--pic: url(IMAGEM 250X250); --bg: BACKGROUND; --cl2: CIRCULO; --cl3: TITULO; --cl4: BARRAS; --font: COR DA FONTE;"><div class="nbg"></div><div class="ntxt">TEXTO<br><b>PEQUENO</b></div><div class="nmor">QUOTE DE TAMANHO OKAY, VISSE?</div><nvrn><div class="nimg"></div></nvrn></div></center>
+<center><div id="ngtmr" style="--pic: url(IMAGEM 150X150 REDIMENSIONA E CENTRALIZA); --bg: BACKGROUND; --cl2: CIRCULO; --cl3: TITULO; --cl4: BARRAS; --font: COR DA FONTE;"><div class="nbg"></div><div class="ntxt">TEXTO<br><b>PEQUENO</b></div><div class="nmor">QUOTE DE TAMANHO OKAY, VISSE?</div><nvrn><div class="nimg"></div></nvrn></div></center>
